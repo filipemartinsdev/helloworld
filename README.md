@@ -8,6 +8,6 @@ Includes on pom.xml
 ````xml
 <dependency>
   <groupId>io.github.filipemartinsdev</groupId>
-  <artifact>helloworld</artifact>
+  <artifactId>helloworld</artifactId>
 </dependency>
 ````
