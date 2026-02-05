@@ -1,4 +1,4 @@
-# 📦 HelloWorld Library v0.0.1
+# 📦 HelloWorld Library v0.0.2
 
 Template project to publish a Maven Package.
 
@@ -9,5 +9,6 @@ Includes on pom.xml
 <dependency>
   <groupId>io.github.filipemartinsdev</groupId>
   <artifactId>helloworld</artifactId>
+  <version>0.0.2</version>
 </dependency>
 ````
