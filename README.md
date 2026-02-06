@@ -12,3 +12,11 @@ Includes on pom.xml
   <version>0.0.2</version>
 </dependency>
 ````
+
+Import and use
+````java
+import io.github.filipemartinsdev.helloworld.Hello;
+````
+````java
+new Hello().print();
+````
